@@ -1,0 +1,42 @@
+        // bootproject1
+    
+       
+        #p1
+        {
+        text-align:center;
+        }
+        #bd
+        {
+        background: url("images/background.gif") no-repeat center center fixed;
+        background-size: cover;
+        -webkit-background-size:cover;
+        -moz-background-size:cover;
+        height: 100vh;
+        width:100vw;
+
+        }
+        #f 
+        {
+        position: fixed;
+        top: 90%;      
+        left: 35%; 
+        color: white;
+    
+        }
+        .heading p
+        {
+        position:fixed;
+        font-size:2.6em;
+        color:darkred;
+        top:10%;
+        left: 35%; 
+        }
+        .heading2 p
+        {
+        position:fixed;
+        font-size:1.6em;
+        color: darkred;
+         top:20%;
+        left: 38%;  
+      
+        }
